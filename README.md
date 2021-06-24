@@ -23,10 +23,10 @@ Vzhľadom na to, ako bolo zadanie pochopené bola vytvorená implementácia nasl
 **LoginService trieda:**
 Vygeneruje prihlásenia, ktoré sú odoslané ďalej pre spracovanie triede LoginLogsAggService
 
-**#LoginLogsAggService trieda:**
+**LoginLogsAggService trieda:**
 Podľa vstupných logov trieda z DB vyberie pre ktorú krajinu daná IP patrí a zapíše záznam
 
-**#Statistics trieda:**
+**Statistics trieda:**
 Simuluje aplikáciu requestujúcu spracované dáta z LoginLogsAggService triedy
 
 **main trieda:**
